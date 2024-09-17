@@ -21,7 +21,7 @@
 <ul>
    <li>Programming Languages: Java, C++, GoLang, Lua, HTML, CSS, JavaScript, SQL</li>
 
-   <li>Cloud Platforms: AWS, Azure</li>
+   <li>Cloud Platforms: AWS, MS Azure</li>
 
    <li>Tools and Technologies: Docker, Kubernetes, Apache CloudStack, OpenStack, Jenkins, Splunk, Nagios</li>
 </ul>
