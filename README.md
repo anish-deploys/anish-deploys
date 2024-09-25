@@ -31,6 +31,6 @@
 
 ### Currently working on : 
 <ul>
-   <li>Building my own CDN using Docker, Docker Compose, Nginx, Prometheus, Grafana, Lua </li>
+   <li>Building my own CDN using Docker, Docker Compose, Nginx, Prometheus, Grafana, Lua  </li>
 </ul>
 
