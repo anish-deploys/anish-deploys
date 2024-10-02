@@ -22,11 +22,11 @@
 ### Technical Proficiency :
 
 <ul>
-   <li>Programming Languages: Java, C++, GoLang, Lua, HTML, CSS, JavaScript, SQL</li>
+   <li>Programming Languages: Java, C++, GoLang, HTML, CSS, JavaScript, SQL</li>
 
    <li>Cloud Platforms: AWS, MS Azure</li>
 
-   <li>Tools and Technologies: Docker, Kubernetes, Apache CloudStack, OpenStack, Jenkins, Splunk, Nagios</li>
+   <li>Tools and Technologies: Docker, Kubernetes, Apache CloudStack, OpenStack, Jenkins, Splunk, Datadog, Argo CD, Prometheus, Grafana, Travis CI</li>
 </ul>
 
 ### Currently working on : 
