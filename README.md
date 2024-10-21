@@ -14,7 +14,7 @@
 
    <li>Containerization: Expertise in Docker and Kubernetes for efficient application deployment and management.</li>
 
-   <li>CI/CD Pipelines: Implementing continuous integration and continuous delivery workflows for streamlined development and deployment.</li>
+   <li>CI/CD Pipelines: Implementing continuous integration and continuous delivery workflows for streamlined deployment.</li>
 
    <li>Cloud Architecture Design: Adhering to best practices and frameworks like the AWS Well-Architected Framework & AWS Shared Responsibility Model</li>
 </ul>
@@ -22,9 +22,9 @@
 ### Technical Proficiency :
 
 <ul>
-   <li>Programming Languages: Java, C++, GoLang, HTML, CSS, JavaScript, SQL</li>
+   <li>Programming Languages: Java, C++, GoLang, HTML, CSS, JavaScript, SQL, Shell Scripting</li>
 
-   <li>Cloud Platforms: AWS, MS Azure</li>
+   <li>Cloud Platforms: AWS, MS Azure, GCP</li>
 
    <li>Tools and Technologies: Docker, Kubernetes, Apache CloudStack, OpenStack, Jenkins, Splunk, Datadog, Argo CD, Prometheus, Grafana, Travis CI</li>
 </ul>
